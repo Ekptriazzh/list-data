@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "166391562741",
+    "project_id": "flutterfirebaseseries-69e31",
+    "storage_bucket": "flutterfirebaseseries-69e31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166391562741:android:10de7e2ecef285cae1a0bc",
+        "android_client_info": {
+          "package_name": "com.example.toko"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Qthudi5VAomVSiRvCuE2C7Ojn3Kibc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
